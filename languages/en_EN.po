@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VPBroadcastLite\n"
+"POT-Creation-Date: 2014-05-24 19:21+0200\n"
+"PO-Revision-Date: 2014-05-24 20:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/class-vp-bcl-settings.php:57
+msgid "vpBroadcast Lite Settings"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:57
+msgid "vpBroadcast Lite"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:70
+msgid "Viewplex Post Types Options"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:103
+msgid "General"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:108
+msgid "Add HTML markup for opening page wrappers"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:109
+msgid ""
+"Enter opening elements for main page content wrappers for your current theme "
+"(by default markup seted for Twenty Fourteen WP theme)"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:115
+msgid "Add HTML markup for closing page wrappers"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:116
+msgid ""
+"Enter closing elements for main page content wrappers for your current theme "
+"(by default markup seted for Twenty Fourteen WP theme)"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:122
+msgid "Show sidebar on broadcast pages"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:123
+msgid "Show or hide sidebar on broadcast pages (single and archive)"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:128
+msgid "Show"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:129
+msgid "Hide"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:134
+msgid "Style"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:139
+msgid "Select elements corners style"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:145
+msgid "Square corners"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:146
+msgid "Rounded corners (border-radius: 5px)"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:147
+msgid "Rounded corners (border-radius: 10px)"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:148
+msgid "Rounded corners (border-radius: 15px)"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:153
+msgid "Borders color"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:161
+msgid "Broadcast item background color"
+msgstr ""
+
+#: ../includes/class-vp-bcl-settings.php:169
+msgid "Broadcast important item background color"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:27
+msgid "Current broadcast status"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:36
+msgid "Select current broadcast status"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:41 ../includes/vp-bcl-shortcodes.php:60
+#: ../includes/vp-bcl-template-functions.php:56
+msgid "Coming Soon"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:42 ../includes/vp-bcl-shortcodes.php:64
+#: ../includes/vp-bcl-template-functions.php:60
+msgid "Live"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:43 ../includes/vp-bcl-shortcodes.php:68
+#: ../includes/vp-bcl-template-functions.php:64
+msgid "Finished"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:56 ../vp-broadcast-lite.php:81
+msgid "Broadcast"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:75
+msgid "Current broadcast settings"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:82
+msgid "Date/time, place"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:83
+msgid "Frontend Settings"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:84
+msgid "Social"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:88
+msgid "Description:"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:98
+msgid "Start Date"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:99
+msgid "Broadcast starts on"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:106
+msgid "Start Time"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:107
+msgid "Broadcast starts at"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:114
+msgid "Timezone"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:115
+msgid "Start time timezone"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:122
+msgid "Place"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:123
+msgid "Where event will happened"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:132
+msgid "Refreshing type"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:133
+msgid "Select broadcast refreshing type on frontend"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:138
+msgid "Via AJAX"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:139
+msgid "User refresh page manually"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:144
+msgid "Refreshing interval"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:145
+msgid "Set broadcast refreshing interval in seconds (min. value - 10 seconds)"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:152
+msgid "Frontend style"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:153
+msgid "Select broadcast displaying style"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:158
+msgid "Standart"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:159
+msgid "Timeline"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:173
+msgid "Scoreboard"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:180
+msgid "Team 1:"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:187
+msgid "Team 1 score:"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:194
+msgid "Team 2:"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:201
+msgid "Team 2 score:"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:226
+msgid "Let's go"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:227
+msgid "Our broadcast started"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:231
+msgid "1'"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:233
+msgid "First timestamp. Starts from here"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:255 ../includes/vp-bcl-admin.php:284
+msgid "Important event"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:267
+msgid "Update on frontend"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:268
+msgid "Add timestamp"
+msgstr ""
+
+#: ../includes/vp-bcl-admin.php:269
+msgid "Add section"
+msgstr ""
+
+#: ../vp-broadcast-lite.php:80 ../vp-broadcast-lite.php:92
+msgid "Broadcasts"
+msgstr ""
+
+#: ../vp-broadcast-lite.php:82
+msgid "Add New"
+msgstr ""
+
+#: ../vp-broadcast-lite.php:83
+msgid "Add New broadcast"
+msgstr ""
+
+#: ../vp-broadcast-lite.php:84
+msgid "Edit broadcast"
+msgstr ""
+
+#: ../vp-broadcast-lite.php:85
+msgid "New broadcast"
+msgstr ""
+
+#: ../vp-broadcast-lite.php:86
+msgid "All broadcasts"
+msgstr ""
+
+#: ../vp-broadcast-lite.php:87
+msgid "View broadcast"
+msgstr ""
+
+#: ../vp-broadcast-lite.php:88
+msgid "Search broadcasts"
+msgstr ""
+
+#: ../vp-broadcast-lite.php:89
+msgid "No broadcasts found"
+msgstr ""
+
+#: ../vp-broadcast-lite.php:90
+msgid "No broadcasts found in Trash"
+msgstr ""
