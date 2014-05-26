@@ -25,7 +25,7 @@ Add and manage live  text broadcasts of any events directly from your website wi
 
 You can either install it automatically from the WordPress admin, or do it manually:
 
-1. Unzip the archive and put the `wp-pagenavi` folder into your plugins folder (/wp-content/plugins/).
+1. Unzip the archive and put the `vp-broadcast-lite` folder into your plugins folder (/wp-content/plugins/).
 1. Activate the plugin from the Plugins menu.
 
 = Usage =
