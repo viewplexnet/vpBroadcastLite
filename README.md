@@ -25,6 +25,11 @@ Configure options, add some greeting text, setup broadcast status - **Coming soo
 
 Use **[broadcast_list]** or **[single_broadcast]** shortcodes anywhere to show your visitors list of avaliable broadcasts or some single broadcast
 
+#####Shortcodes
+* **[broadcast_list cast_status="all" num="4" display="row" link="yes"]** - shows list of existing streams. Attributes: *cast_status* - all, live, coming_soon, ended; *num* - number of broadcasts to show; *display* - row, col; *link* - yes, no.
+* **[single_broadcast id=""]** - shows selected broadcast by ID or last added, if ID is empty.
+
+
 Frequently Asked Questions
 ----
 
